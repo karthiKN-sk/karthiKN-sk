@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthiknkalyan" target="blank"><img src="https://img.shields.io/twitter/follow/karthiknkalyan?logo=twitter&style=for-the-badge" alt="karthiknkalyan" /></a> </p>
 
-- 🌱 I’m currently learning **Node js ,Angular**
+- 🌱 I’m currently learning **Node js ,Go-lang**
 
 - 💬 Ask me about **Flutter**
 
