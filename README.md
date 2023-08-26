@@ -14,10 +14,10 @@
 - 📫 How to reach me **karthikeyanskalyan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" padding="5px">
 <a href="https://twitter.com/karthiknkalyan" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="karthiknkalyan" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/karthikeyansk" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="karthikeyansk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17986144" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png" alt="17986144" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karthikeyansk" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="karthikeyansk" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/17986144" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png" alt="17986144" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
